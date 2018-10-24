@@ -1,0 +1,116 @@
+
+body {
+  background-image: url("images/bloom.jpg");
+  background-size: 1300px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #4F646F;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #90669B;
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+a {
+  color: #AEA4C4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #9089A3;
+  text-decoration: none;
+}
+
+table {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+img {
+    height: 250px;
+    width: 70%;
+    background-color: powderblue;
+}
+
+.btn-red {
+  background-color: #90669B;
+  color: white;
+  font-weight: 400;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.card {
+  background: white;
+  padding: 50px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.img-circle {
+  border-radius: 50%
+}
+
+.list-inline {
+  padding-left: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.list-inline li i {
+  font-size: 35px;
+}
+
+
+#img-profile {
+      height: 200px;
+      width: auto;
+      background-color: powderblue;
+}
+
+#movies{
+  font-weight: 350;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+#movies img{
+  width: 300px;
+  height: auto;
+}
+#movies td{
+  padding: 5px;
+  text-align: left;
+}
